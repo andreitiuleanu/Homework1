@@ -1,0 +1,15 @@
+D:\C++\Homework1\Homework1\bin\Debug\net6.0\Homework1.exe
+D:\C++\Homework1\Homework1\bin\Debug\net6.0\Homework1.deps.json
+D:\C++\Homework1\Homework1\bin\Debug\net6.0\Homework1.runtimeconfig.json
+D:\C++\Homework1\Homework1\bin\Debug\net6.0\Homework1.dll
+D:\C++\Homework1\Homework1\bin\Debug\net6.0\ref\Homework1.dll
+D:\C++\Homework1\Homework1\bin\Debug\net6.0\Homework1.pdb
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.csproj.AssemblyReference.cache
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfoInputs.cache
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfo.cs
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.csproj.CoreCompileInputs.cache
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.dll
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\ref\Homework1.dll
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.pdb
+D:\C++\Homework1\Homework1\obj\Debug\net6.0\Homework1.genruntimeconfig.cache
